@@ -1,18 +1,18 @@
 # Bot Scrapper de notícias das Olimpíadas 2024
 Esse bot visa o scrapping de 12 jornais do mundo inteiro. Sendo eles:
-    - Globo Esporte
-    - Sport Business
-    - Bleacher Report
-    - RecordPT
-    - The Guardian
-    - CNN Brasil
-    - AP News
-    - Sportico
-    - Sports Business Journal
-    - Insider Sports
-    - Lance
-    - Mkt Esportivo
-
+- Globo Esporte
+- Sport Business
+- Bleacher Report
+- RecordPT
+- The Guardian
+- CNN Brasil
+- AP News
+- Sportico
+- Sports Business Journal
+- Insider Sports
+- Lance
+- Mkt Esportivo
+  
 Onde faz o scrapping, monta uma mensagem e encaminha pelo **Telegram** utilizando **Python**.
 
 ## Requisitos
