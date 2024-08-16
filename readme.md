@@ -1,4 +1,4 @@
-# Bot Scrapper de notícias das olimpíadas 2024
+# Bot Scrapper de notícias das Olimpíadas 2024
 Esse bot visa o scrapping de 12 jornais do mundo inteiro. Sendo eles:
     - Globo Esporte
     - Sport Business
